@@ -1,0 +1,1 @@
+# guild-location-codes
